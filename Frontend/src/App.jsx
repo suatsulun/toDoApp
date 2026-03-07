@@ -1,4 +1,4 @@
-import ToDoList from "./toDoList"
+import ToDoList from "./ToDoList"
 import "./App.css"
 import Footer from "./footer"
 import Header from "./header"
